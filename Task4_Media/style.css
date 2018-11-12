@@ -1,0 +1,185 @@
+.blocks {
+  width: 1020px;
+  height: 420px;
+  color: white;
+  margin: auto;
+
+}
+
+.title-block {
+  display: flex;
+  background-color: #20B2AA;
+  position: relative;
+  height: 20%;
+}
+
+.title-text {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+.button1, .button2 {
+    position: absolute;
+    top: 2%;
+}
+
+.left-block {
+  background-color: lightgrey;
+  color: black;
+}
+
+h3 {
+    position: relative;
+    font-size: 19px;
+    text-align: center;
+    top: 35%;
+    padding: 0 5px 0 5px;
+}
+
+.news-block {
+    background-color: lightgrey;
+    color: black;
+}
+
+.right-block {
+    background-color: lightgrey;
+    color: black;
+}
+
+@media screen and (max-width: 2440px) {
+  .blocks {
+      width: 99%;
+      margin: center;
+  }
+  .title-block {
+    width: 100%;
+    position: relative;
+  }
+  .title-text {
+    margin-left: 2%;
+    vertical-align: middle;
+    align-items: center;
+  }
+  .left-block {
+    display: block;
+    position: absolute;
+    margin-top: 0.5%;
+    width: 21%;
+    height: 400px;
+  }
+  .news-block {
+    position: absolute;
+    margin-top: 0.5%;
+    margin-left: 22%;
+    width: 51.5%;
+    height: 400px;
+  }
+  .right-block {
+    position: absolute;
+    margin-top: 0.5%;
+    margin-left: 74.5%;
+    width: 23.5%;
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .blocks {
+    width: 99%;
+  }
+  .bottom-blocks {
+    width: 99%;
+  }
+  .title-block {
+    width: 100.3%;
+    position: relative;
+  }
+  .title-text {
+    margin-left: 15%;
+    vertical-align: middle;
+    align-items: center;
+  }
+  #button1 {
+      display: block;
+  }
+
+  .line {
+      background: #ecf0f1;
+      position: absolute;
+      margin-left: 4%;
+      width: 7%;
+      height: 5%;
+      position: absolute;
+      border: 0.5px solid #ecf0f1;
+      border-radius: 20px 20px;
+  }
+  .line-1 {
+      top: 30%;
+  }
+  .line-2 {
+      top: 50%;
+  }
+  .line-3 {
+      top: 70%;
+  }
+
+.news-block {
+  margin-top: 0.5%;
+  margin-left: 31.5%;
+  width: 65%;
+  height: 400px;
+}
+
+.left-block {
+  display: flex;
+  position: absolute;
+  margin-top: 0.5%;
+  width: 30%;
+  height: 400px;
+}
+
+.right-block {
+  display: none;
+  }
+
+#button2 {
+  display: none;
+}
+
+@media screen and (max-width: 426px) {
+  .blocks {
+    width: 99%;
+  }
+  .title-block {
+    width: 101.5%;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+  }
+
+.title-block span {
+  margin-left: -5%;
+  width: 10%;
+}
+
+.title-text {
+  margin-left: -2%;
+}
+
+#button2 {
+  display: flex;
+}
+
+.news-block {
+  position: absolute;
+  margin-top: 0.5%;
+  margin-left: 0.1%;
+  width: 95.8%;
+  height: 400px;
+}
+
+.left-block {
+    display: none;
+  }
+}

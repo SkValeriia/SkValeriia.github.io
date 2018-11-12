@@ -1,0 +1,435 @@
+.container {
+  background-color: #9fc5f8;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  font-size: 20px;
+  margin-left: 10%;
+  height: 7em;
+}
+
+.container-fluid {
+  background-color: #9fc5f8;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  font-size: 28px;
+  width: 55em;
+  height: 7em;
+}
+
+.brand {
+  background-color: #CFE2FB;
+  height: 2em;
+  text-align: center
+}
+
+.global {
+  background-color: #CFE2FB;
+  height: 2em;
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.tools {
+  background-color: #CFE2FB;
+  height: 2em;
+  text-align: center;
+  margin-right: 2%;
+}
+
+.flex {
+  display: flex;
+	flex-direction: row;
+}
+
+.left-blocks {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.header-hero {
+  padding-top: 1%;
+	background-color: #9FC5F8;
+}
+
+.hero-feature {
+  position: relative;
+  margin-top: 2%;
+	background-color: #CFE2FB;
+	width: 100%;
+  height: 4em;
+  text-align: center;
+}
+
+.hero-text {
+  margin-top: 7.5%;
+  font-size: 22px;
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+}
+
+.hero-call {
+  margin-top: 4.5%;
+  margin-bottom: 1%;
+	background-color: #CFE2FB;
+	padding-top: 23%;
+  height: 4em;
+	width: 100%;
+}
+
+.hero-call-text {
+  margin-top: -14%;
+  margin-left: 5%;
+  font-size: 22px;
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+}
+
+.ad {
+	background-color: #6FA8DC;
+	height: 6.53em;
+	margin-top: 2%;
+	margin-left: 1.8%;
+	width: 29%;
+  text-align: center;
+  font-size: 30px;
+}
+
+.ad-text {
+  position: relative;
+  margin-top: 28%;
+  font-size: 30px;
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+}
+
+.header-body {
+  position: relative;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.left-blocks2 {
+  position: relative;
+  background-color: #9fc5f8;
+  height: 40em;
+  width: 60.1%;
+  margin-left: 10%;
+}
+
+.right-block {
+  background-color: #9fc5f8;
+  height: 40em;
+  width: 18.95%;
+  margin-left: 1.1%;
+}
+
+.sidebar-header {
+  margin-top: 4%;
+  margin-left: 6%;
+}
+
+.sidebar-feature {
+  background-color: #CFE2FB;
+  height: 35em;
+  margin-top: 2%;
+  margin-left: 8.5%;
+  text-align: center;
+}
+
+.sidebar-text {
+  margin-top: 11.5em;
+  font-size: 22px;
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+}
+
+.article-feature {
+  background-color: #CFE2FB;
+  margin-left: 3%;
+  height: 34.8em;
+}
+
+.article-feature-text {
+  margin-top: 11em;
+  margin-left: 16%;
+  font-size: 22px;
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+}
+
+.article-listing {
+  background-color: #CFE2FB;
+  margin-right: 6%;
+  height: 34.8em;
+}
+
+.article-listing-text {
+  margin-top: 11.2em;
+  margin-left: 32%;
+  font-size: 22px;
+  display: inline-block;
+  float: none;
+  vertical-align: middle;
+}
+
+.footer-header {
+  margin-top: 2%;
+  margin-left: 1%;
+  margin-bottom: 2%;
+}
+
+@media (min-width: 1441px) {
+.container {
+  max-width: 102.6em;
+  }
+
+  .ad {
+    width: 16em;
+  }
+}
+
+@media (max-width: 1440px) {
+.container {
+  display: flex;
+  max-width: 104.6em;
+  margin-left: 4%;
+}
+
+.container-fluid {
+  width: 38.4em;
+  margin-left: -8%;
+}
+
+.brand {
+  width: 22.5em;
+}
+
+.global {
+  width: 22.5em;
+  margin-left: 30%;
+}
+
+.tools {
+  width: 22.5em;
+  margin-left: -35%;
+}
+
+.ad {
+  width: 11.6em;
+  margin-left: -19%;
+}
+
+.left-blocks2 {
+  width: 67.4em;
+  margin-left: 4%;
+}
+
+.right-block {
+  margin-right: -9%;
+  width: 21.4em;
+  }
+}
+
+@media (max-width: 1024px) {
+.container {
+  font-size: 12px;
+  width: 90em;
+}
+.container-fluid {
+  width: 29em;
+}
+
+.brand, .global, .tools {
+  width: 27em;
+}
+
+.ad {
+  width: 8.6em;
+  margin-left: -22%;
+  }
+}
+
+@media (max-width: 769px) {
+  .container {
+    width: 77em;
+  }
+
+  .container-fluid {
+    width: 33.2em;
+    padding-left: 3%;
+  }
+
+  .brand, .global, .tools {
+    width: 23em;
+  }
+
+  .hero-feature {
+    height: 41%;
+  }
+
+  .hero-text {
+    margin-top: 1%;
+    margin-bottom: 8%;
+    text-align: center;
+  }
+
+  .hero-call {
+    padding-top: 5%;
+    margin-top: -5%;
+    height: 0.5%;
+    margin-bottom: 10%;
+  }
+
+  .hero-call-text {
+    margin-top: -9.5%;
+    margin-left: 37%;
+  }
+
+  .left-blocks2 {
+    width: 58em;
+  }
+
+  .article-feature {
+    height: 10em;
+    width: 37em;
+  }
+
+  .article-feature-text {
+    margin-top: 12%;
+    margin-left: 33%;
+  }
+
+  .ad {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding-top: 21.4%;
+    z-index: 2;
+    width: 35%;
+		height: 4%;
+		margin-left: 21.5em;
+    margin-top: 8%;
+  }
+
+  .ad-text {
+    margin-top: -38%;
+  }
+
+  .article-listing {
+    margin-top: 1%;
+    width: 94%;
+    height: 24em;
+    margin-left: 3%;
+  }
+
+  .article-listing-text {
+    margin-top: 20%;
+    margin-left: 39%;
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .right-block {
+    margin-top: 2%;
+    margin-left: 4%;
+		height: 10em;
+		width: 58em;
+  }
+
+  .sidebar-feature {
+    margin-top: 0.1%;
+    margin-left: 4.2%;
+    height: 4em;
+    width: 54.8em;
+  }
+
+  .sidebar-text {
+    margin-top: 1.8%;
+  }
+}
+
+@media (max-width: 426px) {
+  .container {
+    width: 75em;
+    height: 10em;
+  }
+
+  .container-fluid {
+    height: 5em;
+    width: 32.2em;
+  }
+
+  .brand {
+    width: 73em;
+    margin-bottom: 2%;
+  }
+
+  .global  {
+    width: 35em;
+    margin-left: 0.25%;
+  }
+
+  .tools {
+    width: 35em;
+    margin-left: -21%;
+  }
+
+  .left-blocks {
+    margin-bottom: 2%;
+  }
+
+  .hero-feature {
+    display: none;
+  }
+
+  .hero-call {
+    margin-top: 2%;
+  }
+
+  .left-blocks2 {
+    width: 56em;
+    height: 25em;
+  }
+
+  .right-block {
+    display: none;
+  }
+
+  .article-feature {
+    width: 53em;
+    height: 90%;
+  }
+
+  .article-feature-text {
+    margin-top: 1%;
+    margin-left: 38.5%;
+  }
+
+  .ad {
+    margin-top: 33%;
+    margin-left: 6.5%;
+    width: 28.3em;
+    height: 0.25em;
+  }
+
+  .ad-text {
+    margin-top: -8%;
+  }
+
+  .article-listing {
+    margin-top: 13%;
+    height: 9em;
+  }
+
+  .article-listing-text {
+    margin-top: 8%;
+  }
+}
