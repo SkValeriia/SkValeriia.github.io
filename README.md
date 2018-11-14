@@ -1,2 +1,6 @@
 # SkValeriia.github.io
-HTML_CSS host
+CURSOR lessons.
+
+Homework_L1W1_HTML_CSS:
+
+
