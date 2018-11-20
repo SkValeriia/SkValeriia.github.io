@@ -1,0 +1,40 @@
+// Задача #1
+// Описать функцию конструктор для автосалона.
+// Mark(Toyota), Volume(2.5L), Price(30000$), Year(2016)
+
+// Цена всегда одинаковая
+// getTax() -> (price * 0.2) + ((0.01) * 2.5L *  price);
+// функция должна расчитывать налог от объема двигателя, то есть,
+// если объем двигателя больше, то и налог больше
+
+
+// Задача #2
+// getDiscount -> (currentYear - year) * 0.1 * price
+// в данной задаче, функция должна считать скидку в зависимости от
+// года выпуска автомобиля. То есть, чем старше машина, тем больше
+// скидка на автомобиль
+
+// Task #1
+
+function carShowroom(mark, volume, price, year) {
+    const newObj = {};
+    newObj.getTax = (price * 0.2) + ((0.01) * volume *  price);
+    console.log(newObj);
+    return newObj;
+}
+
+const Tax = carShowroom("Toyota", 2.5, 30000, 2016);
+
+
+// Task #2
+
+function carShowroom2(mark, volume, price, year) {
+    const currentDate = new Date();
+    const currentYear = currentDate.getFullYear();
+    const newObj = {};
+    newObj.getDiscount = (currentYear - year) * 0.1 * price;
+    console.log(newObj);
+    return newObj;
+}
+
+const Discount = carShowroom2("Toyota", 2.5, 30000, 2016);

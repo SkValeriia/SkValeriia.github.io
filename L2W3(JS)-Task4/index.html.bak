@@ -1,0 +1,26 @@
+ <!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>DOM</title>
+</head>
+<body>
+  <div class="super">
+    <div class="super_wrapper" id="main">Test</div>
+      <span class="text--blue">Test</span>
+    </div>
+
+    <div>
+      <div class="counter-wrapper">
+        <div class="counter-minutes">
+          <div class="number">0</div>
+          <div class="number">1</div>
+        </div>
+      </div>
+    </div>
+  <input type="text" value="test" placeholder="name">
+<script src="script.js">
+</script>
+</body>
+</html>
