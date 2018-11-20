@@ -20,5 +20,5 @@ https://gist.github.com/SkutelnykValeriia/bfb1ecc6dd8d4a372f8706eb13440b9e
 
 DOM (Create 20 DIVs):
 
-SkutelnykValeriia.github.io/L13W4-DOM_20_DIVs/index.html
+https://skutelnykvaleriia.github.io/L13W4-DOM_20_DIVs/index.html
 
