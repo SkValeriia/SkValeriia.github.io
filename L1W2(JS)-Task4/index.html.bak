@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>JS1.2</title>
+  <title>DOM_20_DIVs</title>
 </head>
 <body>
-  <script src="script.js">
+  <script src="DIVs.js">
 </script>
 </body>
 </html>
