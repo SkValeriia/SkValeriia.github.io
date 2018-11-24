@@ -8,10 +8,13 @@ https://gist.github.com/SkutelnykValeriia/8fa3ddfba57a30273bb99ebaf458ced4
 
 Homework_L1W2_JS:
 
+https://gist.github.com/SkutelnykValeriia/d3bf825f7291a3bf98034775f8a0b1af
+
 
 Homework_L2W3_JS:
 
 https://gist.github.com/SkutelnykValeriia/577124a5176a6e14fd312a7f0a047290
+
 
 JS_L11_W3 (Aditional tasks):
 
