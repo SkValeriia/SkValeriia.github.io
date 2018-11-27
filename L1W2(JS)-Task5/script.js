@@ -3,6 +3,7 @@ function numbers (n) {
     let fibNumber3 = fibNumber1 + fibNumber2;
     console.log(fibNumber1);
     console.log(fibNumber2);
+	console.log(fibNumber3);
     for (i = 2; i < n; i++) {
         fibNumber1 = fibNumber2, fibNumber2 = fibNumber3;
         fibNumber3 = fibNumber1 + fibNumber2;
