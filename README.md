@@ -4,7 +4,7 @@ CURSOR lessons.
 
 Homework_L1W1_HTML_CSS:
 
-Task#1 (CSS Game): https://SkutelnykValeriia.github.io/L1W1-Task1_CSS_Game/Finishedgame.png
+Task#1 (CSS Game): https://SkutelnykValeriia.github.io/L1W1-Task1_CSS_Game/Finished%20game.png
 
 Task#1.1 (CSS Game): https://SkutelnykValeriia.github.io/L1W1-Task1.1_CSS_Game/Task1.1.png
 
@@ -12,8 +12,8 @@ Task#2 (HTML, CSS - clear): https://SkutelnykValeriia.github.io/L1W1-Task2_HTML_
 
 Task#3 (Animations):
 
-#3.1 (fadeIn Animate): https://SkutelnykValeriia.github.io/L1W1-Task3_Animations/fadeInAnimate/index.html
-#3.2 (slideOutUp Animate): https://SkutelnykValeriia.github.io/L1W1-Task3_Animations/slideOutUpAnimate/index.html
+#3.1 (fadeIn Animate): https://SkutelnykValeriia.github.io/L1W1-Task3_Animations/fadeIn%20Animate/index.html
+#3.2 (slideOutUp Animate): https://SkutelnykValeriia.github.io/L1W1-Task3_Animations/slideOutUp%20Animate/index.html
 
 Task#4 (Media): https://SkutelnykValeriia.github.io/L1W1-Task4_Media/index.html
 
