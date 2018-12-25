@@ -13,6 +13,7 @@ Task#2 (HTML, CSS - clear): https://SkutelnykValeriia.github.io/L1W1-Task2_HTML_
 Task#3 (Animations):
 
 #3.1 (fadeIn Animate): https://SkutelnykValeriia.github.io/L1W1-Task3_Animations/fadeIn%20Animate/index.html
+
 #3.2 (slideOutUp Animate): https://SkutelnykValeriia.github.io/L1W1-Task3_Animations/slideOutUp%20Animate/index.html
 
 Task#4 (Media): https://SkutelnykValeriia.github.io/L1W1-Task4_Media/index.html
