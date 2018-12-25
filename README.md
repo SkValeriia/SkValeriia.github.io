@@ -2,6 +2,7 @@
 CURSOR lessons.
 
 
+
 Homework_L1W1_HTML_CSS:
 
 Task#1 (CSS Game): https://SkutelnykValeriia.github.io/L1W1-Task1_CSS_Game/Finished%20game.png
@@ -19,6 +20,8 @@ Task#3 (Animations):
 Task#4 (Media): https://SkutelnykValeriia.github.io/L1W1-Task4_Media/index.html
 
 Task#5 (Bootstrap): https://SkutelnykValeriia.github.io/L1W1-Task5_Bootstrap/index.html
+
+
 
 
 Homework_L1W2_JS:
