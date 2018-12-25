@@ -1,7 +1,7 @@
 # SkValeriia.github.io
 CURSOR lessons.
 
-----------------------------------------------HTML, CSS, Animations, Media and Bootstrap homework-------------------------------
+---------------------------------------------HTML, CSS, Animations, Media and Bootstrap homework-------------------------------
 
 Homework_L1W1_HTML_CSS:
 
@@ -22,21 +22,21 @@ Task#4 (Media): https://SkutelnykValeriia.github.io/L1W1-Task4_Media/index.html
 Task#5 (Bootstrap): https://SkutelnykValeriia.github.io/L1W1-Task5_Bootstrap/index.html
 
 
-------------------------------------------------JavaScript homework (L1W2)-------------------------------------------------------
+-----------------------------------------------JavaScript homework (L1W2)-------------------------------------------------------
 
 Homework_L1W2_JS:
 
 https://gist.github.com/SkutelnykValeriia/d3bf825f7291a3bf98034775f8a0b1af
 
 
-------------------------------------------------JavaScript homework (L2W3)-------------------------------------------------------
+-----------------------------------------------JavaScript homework (L2W3)-------------------------------------------------------
 
 Homework_L2W3_JS:
 
 https://gist.github.com/SkutelnykValeriia/577124a5176a6e14fd312a7f0a047290
 
 
------------------------------------------------------Additional tasks------------------------------------------------------------
+----------------------------------------------------Additional tasks------------------------------------------------------------
 
 
 JS_L11_W3 (Aditional tasks):
@@ -44,12 +44,12 @@ JS_L11_W3 (Aditional tasks):
 https://gist.github.com/SkutelnykValeriia/bfb1ecc6dd8d4a372f8706eb13440b9e
 
 
------------------------------------------------------DOM (Create 20 DIVs)--------------------------------------------------------
+----------------------------------------------------DOM (Create 20 DIVs)--------------------------------------------------------
 
 
 DOM (Create 20 DIVs): https://skutelnykvaleriia.github.io/L13W4-DOM_20_DIVs/index.html
 
-----------------------------------------------------------AJAX tasks-------------------------------------------------------------
+---------------------------------------------------------AJAX tasks-------------------------------------------------------------
 
 AJAX (GET, POST):
 
