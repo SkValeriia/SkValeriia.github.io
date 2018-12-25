@@ -34,9 +34,12 @@ https://skutelnykvaleriia.github.io/L13W4-DOM_20_DIVs/index.html
 
 AJAX (GET, POST):
 
-Task#1 (GET request from all users): SkutelnykValeriia.github.io/AJAX_Task1/index.html
+Task#1 (GET request from all users): 
+https://SkutelnykValeriia.github.io/AJAX_Task1/index.html
 
-Task#2 (GET request with one users from random ID): SkutelnykValeriia.github.io/AJAX_Task2/index.html
+Task#2 (GET request with one users from random ID): 
+https://SkutelnykValeriia.github.io/AJAX_Task2/index.html
 
-Task#3 (POST request with verify last user): SkutelnykValeriia.github.io/AJAX_Task3/index.html
+Task#3 (POST request with verify last user): 
+https://SkutelnykValeriia.github.io/AJAX_Task3/index.html
 
