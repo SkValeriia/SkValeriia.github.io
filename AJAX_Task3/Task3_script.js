@@ -34,7 +34,7 @@ httpGet("https://test-users-api.herokuapp.com/users/")
         console.log('Last index is: ' + lastIndex);
         const DIV_ID = document.createElement("div");
         const DIV_NAME = document.createElement("div");
-				const DIV_AGE = document.createElement("div");
+	const DIV_AGE = document.createElement("div");
         const parentElement = document.body;
         parentElement.append(DIV_ID);
         DIV_ID.innerText = 'In new user ID is: ' + getParse.data[lastIndex].id;
